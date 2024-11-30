@@ -1,0 +1,12 @@
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\bin\Release\net6.0\Smart.Speaker.Core.deps.json
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\bin\Release\net6.0\Smart.Speaker.Core.dll
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\bin\Release\net6.0\Smart.Speaker.Core.pdb
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\Smart.Speaker.Core.csproj.AssemblyReference.cache
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\Smart.Speaker.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\Smart.Speaker.Core.AssemblyInfoInputs.cache
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\Smart.Speaker.Core.AssemblyInfo.cs
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\Smart.Speaker.Core.csproj.CoreCompileInputs.cache
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\Smart.Speaker.Core.dll
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\refint\Smart.Speaker.Core.dll
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\Smart.Speaker.Core.pdb
+E:\Smart.Speaker.Solution\Smart.Speaker.Core\obj\Release\net6.0\ref\Smart.Speaker.Core.dll

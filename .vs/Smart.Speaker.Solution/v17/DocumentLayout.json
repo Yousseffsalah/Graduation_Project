@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Smart.Speaker.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEC6F14-BF76-4384-8C2D-3A28C2E4534B}|Smart.Speaker.APIs\\Smart.Speaker.APIs.csproj|e:\\smart.speaker.solution\\smart.speaker.apis\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEC6F14-BF76-4384-8C2D-3A28C2E4534B}|Smart.Speaker.APIs\\Smart.Speaker.APIs.csproj|solutionrelative:smart.speaker.apis\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEC6F14-BF76-4384-8C2D-3A28C2E4534B}|Smart.Speaker.APIs\\Smart.Speaker.APIs.csproj|e:\\smart.speaker.solution\\smart.speaker.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEC6F14-BF76-4384-8C2D-3A28C2E4534B}|Smart.Speaker.APIs\\Smart.Speaker.APIs.csproj|solutionrelative:smart.speaker.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\Smart.Speaker.Solution\\Smart.Speaker.APIs\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Smart.Speaker.APIs\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\Smart.Speaker.Solution\\Smart.Speaker.APIs\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Smart.Speaker.APIs\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:30:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Smart.Speaker.Solution\\Smart.Speaker.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Smart.Speaker.APIs\\Program.cs",
+              "ToolTip": "E:\\Smart.Speaker.Solution\\Smart.Speaker.APIs\\Program.cs",
+              "RelativeToolTip": "Smart.Speaker.APIs\\Program.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAFcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:22:53.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

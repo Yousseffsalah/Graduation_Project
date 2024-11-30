@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Smart.Speaker.APIs.props" />
+</Project>
